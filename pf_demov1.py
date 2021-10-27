@@ -12,9 +12,9 @@ import plotly.graph_objects as go
 
 from PIL import Image
 
-st.set_page_config(page_title='Plain.ai - Intelisense', layout='wide',
-                   # page_icon='icon3.png'
-                   )
+# st.set_page_config(page_title='Plain.ai - Intelisense', layout='wide',
+#                    # page_icon='icon3.png'
+#                    )
 
 
 
